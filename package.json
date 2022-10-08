@@ -1,5 +1,5 @@
 {
-  "name": "firestore-simpler",
+  "name": "firestore-simplify",
   "version": "1.0.0",
   "description": "A project which can simplify the work done to do CRUD operations on firestore. A project to make life simpler.",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "firebase",
     "database",
     "CRUD",
-    "firestore-simpler"
+    "firestore-simplify"
   ],
   "author": "Haneesh",
   "license": "ISC",
