@@ -1,0 +1,29 @@
+{
+  "name": "firestore-simpler",
+  "version": "1.0.0",
+  "description": "A project which can simplify the work done to do CRUD operations on firestore. A project to make life simpler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haneesh000/firestore-simpler.git"
+  },
+  "keywords": [
+    "firestore",
+    "firebase",
+    "database",
+    "CRUD",
+    "firestore-simpler"
+  ],
+  "author": "Haneesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haneesh000/firestore-simpler/issues"
+  },
+  "homepage": "https://www.firestore-simpler.gq",
+  "dependencies": {
+    "firebase": "^9.11.0"
+  }
+}
